@@ -1,18 +1,17 @@
-### 👋 Hi!
+ **👋 Hi!**
 
-Power BI Enthusiast | Data Analyst | Data Visualization | Data Engineering
+> _Power BI Enthusiast | Data Analyst | Data Visualization | Data Engineering_
 
----
 
-### 🔗 Connect with me
+
+**Stacks:**
+
+  
+[![power bi](https://img.shields.io/badge/Microsoft-Power_BI-FFFC00.svg?style=plastic&logo=googleanalytics)](https://app.powerbi.com) [![gh-page](https://img.shields.io/badge/Github-Page-ffffff.svg?style=plastic&logo=github)](https://immsswd.github.io/portfolio/) [![azure databricks](https://img.shields.io/badge/Azure-Databricks-FF3621.svg?style=plastic&logo=databricks)](https://credentials.databricks.com/5a553e4d-d69c-4096-b7e7-0416c37cbc75) [![python](https://img.shields.io/badge/Programming-Python-fee35b.svg?style=plastic&logo=python&labelColor=5a5a5a&logoColor=ffffff)](#)
+
+
+**Let's connect:**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imam)
 
----
-
-### Stack
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Data Visualization](https://img.shields.io/badge/Data%20Viz-FF6F00?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
+___

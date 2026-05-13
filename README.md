@@ -1,10 +1,10 @@
- **👋 Hi!**
 
-> _Power BI Enthusiast | Data Analyst | Data Visualization | Data Engineering_
-
+>
+> 👋 Hi!
+>
+>  A student passionate about Power BI, Data Analysis, Data Visualization, and Data Engineering.
+> 
 [![gh-page](https://img.shields.io/badge/Github-Page-ffffff.svg?style=plastic&logo=github)](https://immsswd.github.io/portfolio/)
-
-
 
 
 **Tools & Stacks:**

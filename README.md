@@ -2,7 +2,7 @@
 >
 > 👋 Hi!
 >
->  A student passionate about Power BI, Data Analysis, Data Visualization, and Data Engineering.
+>  I am student passionate about Power BI, Data Analysis, Data Visualization, and Data Engineering.
 > 
 [![gh-page](https://img.shields.io/badge/Github-Page-ffffff.svg?style=plastic&logo=github)](https://immsswd.github.io/portfolio/)
 
